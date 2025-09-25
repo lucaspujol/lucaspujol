@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=「 ✦ 𝐋𝐮𝐜𝐚𝐬 𝐏𝐮𝐣𝐨𝐥 ✦ 」&animation=fadeIn&type=waving&color=gradient&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?text=Lucas Pujol&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
 <p align="center">
