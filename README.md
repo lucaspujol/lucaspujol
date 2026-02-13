@@ -92,8 +92,8 @@ public:
 ## 🚀 Recent Personal Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspujol&repo=pendulums&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspujol&repo=cpp-qr&theme=tokyonight&hide_border=true" />
+  <img src="https://gh-card.dev/repos/lucaspujol/pendulums.svg?theme=tokyonight" />
+  <img src="https://gh-card.dev/repos/lucaspujol/cpp-qr.svg?theme=tokyonight" />
 </p>
 
 
