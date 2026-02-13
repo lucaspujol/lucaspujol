@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working as an intern in web development
+- 🔭 I'm currently in second year at Epitech Montpellier
 - 🌱 I'm always learning new technologies
 - 💡 I enjoy experimenting with new frameworks and libraries
 - 🎯 Passionate about creating innovative solutions & delivering results
@@ -26,7 +26,8 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
@@ -47,9 +48,9 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| ![Lucas's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaspujol&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspujol&layout=compact&theme=tokyonight&hide_border=true) |
+| |
+|:---:|
+| ![Lucas's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaspujol&theme=tokyonight&hide_border=true) |
 
 </div>
 
@@ -65,24 +66,24 @@
 
 ## 💻 Current Focus
 
-```typescript
-const lucas = {
-  code: ['JavaScript', 'TypeScript', 'Python', 'PHP'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Vue', 'Next.js'],
-      css: ['Tailwind', 'Pure CSS']
-    },
-    backEnd: {
-      js: ['Node.js', 'Express'],
-      python: ['FastAPI', 'UV'],
-      php: ['Laravel', 'Symfony']
-    },
-    databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
-    devOps: ['Docker', 'CI/CD'],
-    tools: ['Git', 'VSCode', 'Postman']
-  },
-  currentFocus: "My internship!",
+```cpp
+class Lucas {
+private:
+    std::vector<std::string> languages = {"C++", "Python", "C" };
+    
+public:
+    struct Interests {
+        std::vector<std::string> paradigms = { "OOP", "Design Patterns", "SOLID Principles" };
+        std::vector<std::string> domains = { "AI/ML", "Algorithmic Problems", "Data Structures" };
+        std::vector<std::string> tools = { "Git", "Docker", "VSCode" };
+    } interests;
+    
+    void displayCurrentFocus() {
+        std::cout << "OOP & C++ Mastery" << std::endl;
+        std::cout << "AI & Machine Learning Projects" << std::endl;
+        std::cout << "Advanced Algorithmic Solutions" << std::endl;
+        std::cout << "Complex Problem Solving" << std::endl;
+    }
 };
 ```
 
@@ -90,10 +91,9 @@ const lucas = {
 
 ## 🚀 Recent Personal Project
 
-<p align="left">
-  <a href="https://github.com/lucaspujol/solvle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspujol&repo=solvle&theme=tokyonight&hide_border=true" alt="Solvle Repository" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspujol&repo=pendulums&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspujol&repo=cpp-qr&theme=tokyonight&hide_border=true" />
 </p>
 
 
